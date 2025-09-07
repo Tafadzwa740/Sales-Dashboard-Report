@@ -24,6 +24,6 @@ Total Sales by product( Bar Chart) - Analyze the sales distribution among variou
 
 # Sales Dashboard Report
       
-      <img width="1780" height="812" alt="Sales Report Dashboard" src=" https://github.com/Tafadzwa740/Sales-Dashboard-Report/blob/main/Sales%20dahboard%20report.png " />
+  <img width="1780" height="812" alt="Sales Report Dashboard" src=" https://github.com/Tafadzwa740/Sales-Dashboard-Report/blob/main/Sales%20dahboard%20report.png " />
 
               
