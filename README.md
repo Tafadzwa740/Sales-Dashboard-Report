@@ -23,5 +23,7 @@ Total Sales by region (Donut Chart)- Use A donut chart to represent the contribu
 Total Sales by product( Bar Chart) - Analyze the sales distribution among various Adidas products using bar chart
 
 # Sales Dashboard Report
-      <img width="1780" height="812" alt="Sales Dashboard Rport" src= "https://github.com/Tafadzwa740/Sales-Dashboard-Report/blob/main/Sales%20dahboard%20report.png" />
+      
+      <img width="1780" height="812" alt="Sales Report Dashboard" src=" https://github.com/Tafadzwa740/Sales-Dashboard-Report/blob/main/Sales%20dahboard%20report.png " />
+
               
